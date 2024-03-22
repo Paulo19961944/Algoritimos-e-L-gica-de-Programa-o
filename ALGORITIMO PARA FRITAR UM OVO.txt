@@ -1,0 +1,8 @@
+ALGORITIMO PARA FRITAR UM OVO
+
+1. Pegar o pote
+2. Pegar a Frigideira
+3. Quebre o ovo e coloque no pote. 
+4. Se estiver bom, coloque na frigideira. Se estiver ruim jogue o ovo fora, lave o pote e volte ao passo 3.
+5. Acenda o Fogo
+6. Coloque a frigideira no fogo, assim que for a hora de virar coloque no prato.

@@ -1,0 +1,10 @@
+### ALGORITIMO PARA DESCOBRIR O TOTAL DE 3 VARIÁVEIS
+
+1. **RECEBA** o Valor 1 (ENTRADA)
+2. **RECEBA** o Valor 2 (ENTRADA)
+3. **RECEBA** o Valor 3 (ENTRADA)
+4. **TOTAL** recebe Valor 1 + Valor 2 + Valor 3 (ENTRADA)
+5. **CALCULE** o Total (PROCESSAMENTO)
+6. **IMPRIMA** o Total na Tela (SAÍDA)
+
+

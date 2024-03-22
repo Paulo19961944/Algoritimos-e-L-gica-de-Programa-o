@@ -1,0 +1,28 @@
+### ALGORITIMO PARA DESCOBRIR A MÉDIA ENTRE 4 NOTAS
+
+
+**ENTRADA**
+
+1. Receba o valor da váriavel nota 1
+2. Receba o valor da váriavel nota 2
+3. Receba o valor da váriavel nota 3
+4. Receba o valor da váriavel nota 4
+5. Média recebe (nota 1 + nota 2 + nota 3 + nota 4) / 4
+
+**PROCESSAMENTO**
+
+6. Calcular a média
+
+**SAÍDA**
+
+7. Imprime o valor da média na tela
+
+
+CÓDIGO JS
+
+let nota1 = parseInt(prompt("Digite a primeira nota:"));
+let nota2 = parseInt(prompt("Digite a segunda nota:"));
+let nota3 = parseInt(prompt("Digite a terceira nota:"));
+let nota4 = parseInt(prompt("Digite a quarta nota:"));
+let media = (nota1 + nota2 + nota3 + nota4) / 4;
+alert(`O valor da média das notas é ${media.toFixed(2)}`);

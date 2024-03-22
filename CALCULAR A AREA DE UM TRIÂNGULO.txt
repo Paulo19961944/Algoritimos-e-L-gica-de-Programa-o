@@ -1,0 +1,7 @@
+CALCULAR A AREA DE UM TRIÂNGULO
+
+
+1. Receba a Base
+2. Receba a Altura
+3. Area recebe (Base*Altura) / 2
+4. Exibe o valor da Área

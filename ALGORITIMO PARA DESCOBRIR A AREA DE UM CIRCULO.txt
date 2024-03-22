@@ -1,0 +1,7 @@
+ALGORITIMO PARA DESCOBRIR A AREA DE UM CIRCULO
+
+1. RECEBA o valor do diametro
+2. Raio RECEBE diametro / 2
+3. PI RECEBE 3.141592
+4. Area recebe PI * raio**2
+5. EXIBIR o valor da Área na Tela
